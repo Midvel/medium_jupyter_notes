@@ -1,0 +1,166 @@
+,Region,Venue,Venue ID,Venue Latitude,Venue Longitude,Venue Primary Category,Venue Address,Venue Categories,Venue Likes,Venue Rating,Venue Is Open
+0,Amur-Nyzhnodniprovskyi,Fozzy / Фоззи,52a6c1bc11d2f10095c778b6,48.483838960756174,35.06388269197015,Supermarket,"['ТРЦ ""Вавілон"" (вул. Маршала Малиновського, 2)', 'Дніпро', 'Україна']","['Supermarket', 'Grocery Store']",374,7.9,False
+1,Amur-Nyzhnodniprovskyi,Pa-Si-Ju,558cfeb5498e6a17da7dfe6f,48.47324938101741,35.02912513492513,French Restaurant,"['просп. Дмитра Яворницького, 90', 'Дніпро', 'Україна']",['French Restaurant'],231,8.4,False
+2,Amur-Nyzhnodniprovskyi,HAVE Coffee,5a2fa09e69e77b22f361c493,48.46938619295018,35.038928379213864,Coffee Shop,"['просп. Дмитра Яворницького, 70а (вул. Юліуша Словацького)', 'Дніпро́', 'Україна']",['Coffee Shop'],80,8.4,False
+3,Amur-Nyzhnodniprovskyi,Суши Набухико,5691301f498e3250c1f2ac16,48.469578549699776,35.05255660256293,Sushi Restaurant,"['вул. Січеславська Набережна, 31-А', 'Дніпро', 'Україна']",['Sushi Restaurant'],42,8.2,False
+4,Amur-Nyzhnodniprovskyi,Confetti | Конфетти,5bbefb002aff31002b5f9d9b,48.483092,35.063147,Modern European Restaurant,"['ул. Малиновского, 2', 'Дніпро', 'Україна']",['Modern European Restaurant'],8,7.5,
+5,Amur-Nyzhnodniprovskyi,The Atelier,55801473498e60503157083a,48.470149262167844,35.04943712208916,Coffee Shop,"['вул. Європейська, 30', 'Дніпро', 'Україна']",['Coffee Shop'],190,8.0,False
+6,Amur-Nyzhnodniprovskyi,McDonald's,4c31c15116adc928d807c19c,48.48809784987449,35.06333461617614,Fast Food Restaurant,"['просп. Слобожанський, 1А (просп. Мануйлівський)', 'Дніпро, 49000', 'Україна']",['Fast Food Restaurant'],380,7.3,False
+7,Amur-Nyzhnodniprovskyi,Сільпо / Silpo,4e68f2dfaeb75ce774daf5c8,48.475689947417564,35.0216016727266,Grocery Store,"['вул. Пастера, 6а', 'Дніпро', 'Україна']",['Grocery Store'],103,7.7,False
+8,Amur-Nyzhnodniprovskyi,Zeffirino,592db15e04d1ae4b86d620f3,48.473182313725594,35.02944652729223,Coffee Shop,"['просп. Дмитра Яворницького, 90а', 'Dnipro, 49000', 'Україна']","['Coffee Shop', 'Dessert Shop']",39,7.7,False
+9,Amur-Nyzhnodniprovskyi,Onur Bakery,5c9774d59cadd9002c21441a,48.46830886317628,35.038178461145584,Coffee Shop,"['проспект Дмитрия Яворницкого, 83', 'Дніпро́, 49000', 'Україна']",['Coffee Shop'],22,7.9,False
+10,Amur-Nyzhnodniprovskyi,Felicita! / Фелічіта!,4eecc07c722ea77616c673bd,48.47296209516348,35.030420202278535,Italian Restaurant,"['просп. Дмитра Яворницького, 88 (вул. Столярова)', 'Дніпро, 49000', 'Україна']",['Italian Restaurant'],341,7.5,False
+11,Amur-Nyzhnodniprovskyi,Капонэ Бар / Capone bar,4ee79880aa1f9a429e0ffbf1,48.48038405068621,35.07440961546468,Café,"['вул. Маршала Малиновського, 44Д', 'Дніпро', 'Україна']","['Café', 'Hookah Bar']",87,7.5,
+12,Amur-Nyzhnodniprovskyi,Море Пива,507d7d0de4b0e49c616750c1,48.51542514215089,35.05397384351703,Beer Store,"['вул. Калинова, 87з', 'Дніпро', 'Україна']",['Beer Store'],4,7.2,False
+13,Amur-Nyzhnodniprovskyi,Black Moon Espresso Bar,5c0a4f6d1c675b00397a4028,48.46872588588893,35.03884357666248,Coffee Shop,"['проспект Яворницького 68', 'Dnipro, 49000', 'Україна']",['Coffee Shop'],5,7.4,False
+14,Amur-Nyzhnodniprovskyi,GLAMOUR,53a71390498ef54d029a979b,48.47550582885742,35.020694732666016,Café,['Україна'],['Café'],7,7.2,
+15,Amur-Nyzhnodniprovskyi,Сільпо / Silpo,4f707c59e4b0a6b77429d0fe,48.46815300928627,35.04881005449371,Supermarket,"['вул. Європейська, 18-А', 'Дніпро', 'Україна']","['Supermarket', 'Grocery Store']",204,7.4,True
+16,Amur-Nyzhnodniprovskyi,"Grill-Pub""Горец""",57053f6dcd100defd4a6f2c1,48.505318,35.077119,BBQ Joint,"['ул.Богдана Хмельницкого,6', 'Дніпро', 'Україна']",['BBQ Joint'],11,7.2,
+17,Amur-Nyzhnodniprovskyi,Порт,55632ec1498e08b6c3959926,48.484251893244135,35.018879053159665,Seafood Restaurant,['Україна'],['Seafood Restaurant'],20,6.8,
+18,Amur-Nyzhnodniprovskyi,Хинкальня,58c92c807a8f044fc088b56a,48.49856,35.0697,Caucasian Restaurant,"['Дніпро, 49000', 'Україна']",['Caucasian Restaurant'],8,6.8,
+19,Amur-Nyzhnodniprovskyi,Ривьера / Reviera,4e67c85f18a8bf0571c0d5fb,48.47975201725006,35.07018120252929,Restaurant,"['вул. Маршала Маліновського, 13а', 'Дніпро', 'Україна']",['Restaurant'],85,6.9,
+20,Amur-Nyzhnodniprovskyi,Coffee Life,524570d5498e39dea83a9d92,48.49855241731131,35.0698519113488,Coffee Shop,"['просп. Слобожанський, 31-Д (ТЦ «Наша Правда»)', 'Дніпро', 'Україна']",['Coffee Shop'],48,6.7,
+21,Amur-Nyzhnodniprovskyi,Булочная 1,52f504b811d21bda95893294,48.47727040258286,35.01632168067175,Bakery,['Україна'],['Bakery'],5,6.9,
+22,Amur-Nyzhnodniprovskyi,McDonald's,4cef0d0882125481cca467a1,48.47727776041328,35.02022445201874,Fast Food Restaurant,"['пл. Старомостова, 5 (вул. Привокзальна)', 'Дніпро', 'Україна']",['Fast Food Restaurant'],474,6.7,False
+23,Amur-Nyzhnodniprovskyi,Франс.уа,575aac1f498eb633f979f801,48.47683231648918,35.01994817895341,Bakery,"['пл. Старомостова, 1', 'Дніпро', 'Україна']",['Bakery'],5,6.6,
+24,Amur-Nyzhnodniprovskyi,Сільпо / Silpo,55d06e65498ed79266632d7a,48.49842595177152,35.069522344199726,Supermarket,"['просп. Слобожанський, 31д (вул. Столєтова)', 'Дніпро, 49088', 'Україна']",['Supermarket'],10,6.4,False
+25,Amur-Nyzhnodniprovskyi,Чао,567eec01498ec1c980acb73b,48.481774505809234,35.06523893147161,Café,"['Малиновского 7', 'Дніпро', 'Україна']",['Café'],7,6.2,
+26,Amur-Nyzhnodniprovskyi,Рюмочная,4ef731988231c111564d3cb3,48.47706577704689,35.014150572914524,Bar,"['пл. Петровського, 5 (Залізничний Вокзал)', 'Дніпро', 'Україна']","['Bar', 'Dive Bar', 'Restaurant']",8,6.3,
+27,Amur-Nyzhnodniprovskyi,Круазе,5235cade498eedc5bac83c96,48.48411304478347,35.06538659176382,Café,"['Пер. Белостоцкого, 8', 'Дніпро', 'Україна']","['Café', 'Pool Hall']",18,6.0,
+28,Amur-Nyzhnodniprovskyi,Малина,523d86ed11d26067b5ec6619,48.48622927490115,35.05158076975252,Café,['Україна'],['Café'],12,5.8,
+29,Amur-Nyzhnodniprovskyi,ЯпонаХата / Yaponahata,52e3def2498eb9e2453e986c,48.49858090322046,35.069494653694555,Sushi Restaurant,"['ТЦ «Наша Правда» (пр-т ім. Газети «Правда», 31д)', 'Дніпро', 'Україна']",['Sushi Restaurant'],8,6.0,
+30,Amur-Nyzhnodniprovskyi,Чеширский кот,53e62a73498e8e64c876816a,48.52056658537704,35.037145572619224,Comfort Food Restaurant,"['ул.Героев Гражданской Войны ,4', 'Дніпро, 49000', 'Україна']",['Comfort Food Restaurant'],5,6.2,
+31,Amur-Nyzhnodniprovskyi,Тыква,51acae60498e09727d24b630,48.48639381901801,35.053764591880444,Pizza Place,"['ул. Набережная Чудновского', 'Дніпро', 'Україна']",['Pizza Place'],8,5.7,
+32,Amur-Nyzhnodniprovskyi,Магазинчик на Ростовской,50a91580e4b05dd8c3a429f2,48.49687211885072,35.05111100126246,Food & Drink Shop,['Україна'],['Food & Drink Shop'],5,0.0,
+33,Amur-Nyzhnodniprovskyi,Burger zone,52c5b153498e70bc70b959cb,48.498457657679396,35.069703588079285,Burger Joint,"['ТЦ ""Наша ПРАВДА"" (просп. Ім газети «Правда», 31д)', 'Дніпро', 'Україна']","['Burger Joint', 'Fast Food Restaurant']",18,5.8,
+34,Amur-Nyzhnodniprovskyi,Море Пива,5364ac84498eb3c5a8d662f3,48.49195193579652,35.067048336339084,Beer Store,"['просп. Газети «Правда», 14а', 'Дніпро', 'Україна']",['Beer Store'],4,5.7,False
+35,Amur-Nyzhnodniprovskyi,АТБ,5550dce4498e35d643e3a7c8,48.48884569120413,35.06081434681132,Supermarket,"['Вул. Луговська 255', 'Україна']",['Supermarket'],13,5.6,True
+36,Amur-Nyzhnodniprovskyi,Старый Парк,4f58fe2ae4b0db97b78abda0,48.4864530909175,35.061864279106835,Restaurant,"['парк Сагайдак (просп. Слобожанський)', 'Дніпро', 'Україна']","['Restaurant', 'Zoo']",59,5.5,
+37,Amur-Nyzhnodniprovskyi,Curry Wurst,535645e1498e91ac4000282d,48.47651182143932,35.014840851335556,Fast Food Restaurant,"['пл. Вокзальна, 1', 'Дніпро', 'Україна']",['Fast Food Restaurant'],17,5.8,
+38,Amur-Nyzhnodniprovskyi,Шинок,4f3ea5b0e4b0c6aa6fba9de8,48.50856815648587,35.07613146533946,Café,"['просп. Слобожанський', 'Дніпро', 'Україна']",['Café'],4,5.8,
+39,Amur-Nyzhnodniprovskyi,Натали,539c9138498ee67090c2c67c,48.50128185908712,35.0118630808335,Comfort Food Restaurant,"['Береговая, 54', 'Дніпро', 'Україна']",['Comfort Food Restaurant'],0,0.0,
+40,Amur-Nyzhnodniprovskyi,Шашлычная#1,580926f338fa40c94f648dd5,48.476475,35.014793,BBQ Joint,"['Дніпро, 49000', 'Україна']","['BBQ Joint', 'Bistro']",5,5.5,True
+41,Amur-Nyzhnodniprovskyi,Море Пива,52923a17498e2f2a6461e5e2,48.4801623823757,35.07210293948948,Beer Store,"['Малиновского, 48', 'Дніпро', 'Україна']",['Beer Store'],4,0.0,False
+42,Amur-Nyzhnodniprovskyi,АТБ,52c83942498e7f1bdf32724d,48.50746231583538,35.02526717079504,Grocery Store,"['ул. Передовая, 2', 'Україна']","['Grocery Store', 'Miscellaneous Shop']",4,5.1,
+43,Shevchenkivskyi,Teahouse,551cfd1c498e614682910aac,48.46497252982586,35.04386734731413,Tea Room,"['вул. Короленка, 1 (просп. Дмитра Яворницького)', 'Дніпро', 'Україна']",['Tea Room'],131,9.0,
+44,Shevchenkivskyi,Holy Bun,5a1d433a89e49031248b008a,48.46481530113186,35.043726439427886,Bakery,"['вул. Короленко, 1', 'Дніпро, 49000', 'Україна']","['Bakery', 'Coffee Shop']",108,8.9,False
+45,Shevchenkivskyi,Silpo,5d73bfaa30a199000899f0de,48.467456,35.036927,Supermarket,"['7 Андрія Фабра вулиця', 'Дніпро', 'Україна']",['Supermarket'],5,8.5,
+46,Shevchenkivskyi,Bar Acacia,5c7b02c2f8cbd4002c4eaa5e,48.466028,35.045736,Bar,"['Ценьральная Улица, 16', 'Dnipro', 'Україна']",['Bar'],12,8.4,
+47,Shevchenkivskyi,Varburger,55c9de1b498e8149db655ef6,48.46359639771805,35.04612688718384,Burger Joint,"['пл. Героїв Майдану, 1', 'Дніпро', 'Україна']",['Burger Joint'],887,8.7,False
+48,Shevchenkivskyi,DoubleDecker Cake & Coffee,5036220fe4b025c29f6c7cc3,48.463480384198355,35.04893694945091,Dessert Shop,"['просп. Дмитра Яворницького, 46', 'Дніпро, 49000', 'Україна']","['Dessert Shop', 'Coffee Shop', 'Bakery']",1742,9.0,False
+49,Shevchenkivskyi,Мыши Бляхера  / Mishi Blyahera (Миші Бляхера),4c76b7c4b4b4b60cf05f250e,48.46428720862639,35.048757791519165,Modern European Restaurant,"[""просп. Дмитра Яворницького, 46 (вул. В'ячеслава Липинського)"", 'Дніпро, 49000', 'Україна']",['Modern European Restaurant'],1684,8.7,False
+50,Shevchenkivskyi,Old Pal,576433e4498e141ecb99343a,48.46167797158495,35.048316927794716,Cocktail Bar,"['вул. Січових Стрільців, 3-А', 'Дніпро', 'Україна']",['Cocktail Bar'],380,9.2,False
+51,Shevchenkivskyi,White Coffeebar,5923e7eb356b4941964914f1,48.46205075531327,35.048773397590054,Coffee Shop,"['вул. Січових Стрільців, 1а (просп. Дмитра Яворницького)', 'Дніпро, 49044', 'Україна']",['Coffee Shop'],257,9.2,False
+52,Shevchenkivskyi,Времена Года,51c2d011498e5eae00240e7c,48.46602545303121,35.03381171013954,Food Truck,"['вул. Комсомольська, 52', 'Дніпро', 'Україна']","['Food Truck', 'Coffee Shop']",22,8.5,
+53,Shevchenkivskyi,Супкультура,5985dfae123a191137615c43,48.46670719851705,35.04858283604788,Soup Place,"['вул. Європейська, 8а', 'Дніпро́, 49000', 'Україна']",['Soup Place'],31,8.3,False
+54,Shevchenkivskyi,Кеды Искусствоведа,5980b573e7a2373f3e3cfde4,48.46273374889434,35.04657675865955,Pub,"['вул. Михайла Грушевського, 4', 'Дніпро', 'Україна']",['Pub'],210,8.5,False
+55,Shevchenkivskyi,Object Coffee,586150053e9dfb1137314361,48.461605006868275,35.04800052649582,Coffee Shop,"['вул. Шевченка, 36 (вул. Січових Стрільців)', 'Дніпро', 'Україна']",['Coffee Shop'],146,8.8,False
+56,Shevchenkivskyi,Mister Cat,5a21bf8f2a7ab64dffc46d2d,48.465156,35.046133,Pizza Place,"['просп. Дмитра Яворницького, 52', 'Дніпро́, 49000', 'Україна']",['Pizza Place'],394,8.2,True
+57,Shevchenkivskyi,Франс.уа,55c47729498ea57359526db4,48.46666463826952,35.04628608808086,Bakery,"['вул. Глінки, 24 (вул. Володимира Мономаха)', 'Дніпро, 49000', 'Україна']",['Bakery'],329,8.1,True
+58,Shevchenkivskyi,Три бобри,5440c44a498ef1ca788ae19c,48.462471206475506,35.050406642706776,Coffee Shop,"['просп. Дмитра Яворницького, 42 (вул. Січових Стрільців)', 'Дніпро, 49000', 'Україна']",['Coffee Shop'],637,8.7,False
+59,Shevchenkivskyi,Репортер / Reporter,4c99d3c13bc3199cb32cad62,48.46202263136751,35.05147359146453,Eastern European Restaurant,"['вул. Барикадна, 2 (просп. Дмитра Яворницького)', 'Дніпро', 'Україна']","['Eastern European Restaurant', 'Breakfast Spot']",1240,8.9,True
+60,Shevchenkivskyi,I Feel Espresso Bar,58f107ba829b0c25eb12734d,48.46596677849821,35.050952829275055,Café,"['вул. Глинки, 7', 'Дніпро, 49000', 'Україна']","['Café', 'Coffee Shop', 'Dessert Shop']",177,8.4,False
+61,Shevchenkivskyi,Паб «Три ноги»,53be997f498ef20ed96bfc7c,48.464022,35.05234,Gastropub,"['вул. Магдебурзького права, 3-А (вул. Шолом-Алейхема)', 'Дніпро, 49000', 'Україна']","['Gastropub', 'Pub']",588,8.7,False
+62,Shevchenkivskyi,TeaHouse,50c98aece4b020a11e3d4da0,48.464362477237856,35.05384291645843,Tea Room,"['ЕМК «Менора» (вул. Шолом-Алейхема, 4/26)', 'Дніпро', 'Україна']","['Tea Room', 'Coffee Shop']",22,8.6,False
+63,Shevchenkivskyi,High Hill,5891ec5e2f91cb092bf4a9fd,48.462613272881455,35.05206019717047,Coffee Shop,"['вул. Барикадна, 5/7', 'Дніпро́, 49000', 'Україна']",['Coffee Shop'],81,8.5,False
+64,Shevchenkivskyi,Atelier No5,582e436fa598b363197f7315,48.46244175935763,35.046195766391335,Coffee Shop,"['вул. Михайла Грушевського, 4-А (вул. Шевченка)', 'Дніпро', 'Україна']","['Coffee Shop', 'Tailor Shop']",97,8.1,False
+65,Shevchenkivskyi,Le Grill,5160321ce4b00d989d5ed3a1,48.460546571735044,35.05007614140686,BBQ Joint,"['бул. Катеринославський, 1', 'Дніпро, 49000', 'Україна']","['BBQ Joint', 'Steakhouse']",351,8.6,False
+66,Shevchenkivskyi,Patisserie,58b36be301f077619871f83c,48.46077447600168,35.0506567955017,Dessert Shop,"['бул. Катеринославський, 1', 'Дніпро', 'Україна']",['Dessert Shop'],9,8.5,
+67,Shevchenkivskyi,Чебуречна №1,54f727ef498eb5e3841643e8,48.46301815549726,35.041401450738306,Café,"['вул. Короленка, 10', 'Дніпро', 'Україна']",['Café'],376,7.9,
+68,Shevchenkivskyi,TWINS bar,5bb903172bf29b002d3eca1d,48.46253048070951,35.05062819435449,Cocktail Bar,"['ул. Дмитрия Яворницкого, 40', 'Дніпро', 'Україна']",['Cocktail Bar'],30,8.2,True
+69,Shevchenkivskyi,Top Waffle,5b7d6c181fa763002c41af04,48.46652,35.049637,Bakery,"['ул. Харьковская, 15 (ул. Глинки - ул. Харьковская)', 'Дніпро́, 49000', 'Україна']","['Bakery', 'Fast Food Restaurant', 'Café']",7,7.9,False
+70,Shevchenkivskyi,Puri Chveni,585ec25beef5da0d3a318363,48.46138378898875,35.047671319986385,Caucasian Restaurant,"['вул. Січових Стрільців, 4 (вул. Шевченка)', 'Дніпро, 49044', 'Україна']",['Caucasian Restaurant'],281,8.2,False
+71,Shevchenkivskyi,Oz Kava,5d025807e075500039b19d6c,48.462293,35.043556,Coffee Shop,"['вул. Троїцька 3а', 'Dnipro', 'Україна']",['Coffee Shop'],7,8.0,
+72,Shevchenkivskyi,SOHO restaurant & bar,5a0ee15fa22db756daf78682,48.460866397377146,35.05123331963816,Restaurant,"['проспект Дмитра Яворницького, 47А', 'Дніпро, 49000', 'Україна']",['Restaurant'],81,8.3,False
+73,Shevchenkivskyi,В Главных Ролях,5d3c80012a367f000844e3f7,48.463461,35.05067,Gastropub,"['Mahdeburzkoho Prava Street, 2a', 'Dnipro, 49000', 'Україна']","['Gastropub', 'Modern European Restaurant']",13,8.1,
+74,Shevchenkivskyi,Хінкальня,585913e6debdf65d6443ca92,48.46734257639446,35.05030387274904,Caucasian Restaurant,"['вул. Глінки, 2', 'Дніпро', 'Україна']",['Caucasian Restaurant'],13,7.9,False
+75,Shevchenkivskyi,Black Sheep,58eb5ff4a4367c18bbf5f365,48.462107,35.048979,Ramen Restaurant,"['вул. Січових Стрільців, 1а', 'Дніпро, 49000', 'Україна']","['Ramen Restaurant', 'Noodle House']",230,8.0,False
+76,Shevchenkivskyi,SiSi Italian,5d5adf5f4feb4e000823d730,48.468441,35.056266,Italian Restaurant,"['Сичеславская Набережная, 37', 'Дніпро', 'Україна']",['Italian Restaurant'],9,8.2,
+77,Shevchenkivskyi,Schrödinger Сafe (Schrödinger),576d7e21498e21f501483082,48.46408756384752,35.04819245112173,Modern European Restaurant,"['просп. Дмитра Яворницького, 46', 'Дніпро', 'Україна']","['Modern European Restaurant', 'Café']",245,7.8,False
+78,Shevchenkivskyi,Зе Румс,5675425d498edfae4eecf5f6,48.46292308908625,35.05401931839625,Modern European Restaurant,"['вул. Барикадна, 11-А', 'Дніпро', 'Україна']","['Modern European Restaurant', 'Café']",121,8.1,False
+79,Shevchenkivskyi,Біла Стріла,5ab0fd37b9ac387ddca36566,48.45987015610638,35.054043900463604,Coffee Shop,"['вулиця Гоголя 2 (проспект Яворницького)', 'Дніпро́, 49000', 'Україна']",['Coffee Shop'],32,8.3,False
+80,Shevchenkivskyi,Люба Кава / Luba Kava,559bc832498e2b5571aa3406,48.458054144409545,35.05248763555939,Coffee Shop,"['вул. Гоголя, 10', 'Дніпро, 49000', 'Україна']",['Coffee Shop'],34,8.4,False
+81,Shevchenkivskyi,One Black Coffee Please,596117aa603d2a7c94bdf809,48.46529939249351,35.05746347130197,Coffee Shop,"['Дніпро́, 49000', 'Україна']",['Coffee Shop'],8,8.1,False
+82,Shevchenkivskyi,The Place,57f8e321498e8e2795202873,48.46303006916368,35.046968048129415,Bar,"['вул. Михайла Грушевського, 2', 'Дніпро', 'Україна']","['Bar', 'Café', 'Breakfast Spot']",201,7.6,False
+83,Shevchenkivskyi,Ча Дао,53f71ee0498ecdca24da94c2,48.45948072157266,35.05538353220708,Tea Room,"['вул. Гоголя, 1 (просп. Дмитра Яворницького)', 'Дніпро', 'Україна']",['Tea Room'],46,8.2,False
+84,Shevchenkivskyi,Shepit,5c3dd2cafb8e59002c388c41,48.45773667874997,35.05447697307785,Coffee Shop,"['Шевченко 25', 'Дніпро', 'Україна']",['Coffee Shop'],31,8.4,
+85,Shevchenkivskyi,Нос,58e2752ffef5fa7476df74e1,48.45583757788077,35.05050081197196,Coffee Shop,"['вулиця Гоголя, 26', 'Дніпро, 49044', 'Україна']",['Coffee Shop'],85,8.3,False
+86,Shevchenkivskyi,Buoni Fratelli,51f95f2c498e15311c4a4412,48.457747302112736,35.0573022097345,Italian Restaurant,"['вул. Володимира Моссаковського, 1-Д', 'Дніпро', 'Україна']",['Italian Restaurant'],377,8.5,False
+87,Shevchenkivskyi,Culturist,5d90b54614e7a900086dec15,48.458355,35.05848,Coffee Shop,"['проспект Дмитрия Яворницкого 26', 'Дніпро́, 49000', 'Україна']","['Coffee Shop', 'Wine Bar', 'Dessert Shop']",8,8.4,False
+88,Shevchenkivskyi,Double Bar,59c14e6eb3c9610775b83591,48.4635999572607,35.05063842220119,Restaurant,"['вул. Магдебурзького права, 2', 'Днепр', 'Україна']",['Restaurant'],63,7.6,False
+89,Sobornyi,Мамой Клянусь,586fde7f52a051541b7ce0c8,48.46192321700763,35.06114481925938,Caucasian Restaurant,"['вул. Володимира Вернадського, 27 (Крутогірний узвіз)', 'Дніпро', 'Україна']",['Caucasian Restaurant'],269,8.2,
+90,Sobornyi,Heisenberg Coffee Lab,5919443318d43b22a4c5f14f,48.459208,35.064682,Coffee Shop,"['площа Соборна, 5-6', 'Дніпро', 'Україна']",['Coffee Shop'],149,8.6,False
+91,Sobornyi,Артист,5486d335498e11594cc7f1f8,48.45753661693784,35.062908794562475,Comfort Food Restaurant,"['пл. Соборна, 2а', 'Дніпро', 'Україна']","['Comfort Food Restaurant', 'Theme Restaurant']",371,8.6,False
+92,Sobornyi,Абажур,559eb363498eb93d9d286ead,48.45982892488008,35.06436889529715,Restaurant,"['пров. Євгена Коновальця, 11', 'Дніпро', 'Україна']",['Restaurant'],87,8.2,False
+93,Sobornyi,Банка,4ea1d18b4690104bb34bd2b9,48.46011055550653,35.06730548729952,Irish Pub,"['вул. Івана Акінфієва, 5', 'Дніпро, 49000', 'Україна']","['Irish Pub', 'Pub', 'Gastropub']",555,8.4,False
+94,Sobornyi,Big Mama,5c17d94a78782c002cb8de38,48.45999311992526,35.06985727985696,Pizza Place,"['вулиця Яворницького 6', 'Дніпро́, 49000', 'Україна']",['Pizza Place'],54,8.5,False
+95,Sobornyi,mixtura_bar,56210838498eaf51180429aa,48.45945200747604,35.068104938203625,Cocktail Bar,"['вул. Івана Акінфієва, 12-Б (вул. Яворницького)', 'Дніпро', 'Україна']",['Cocktail Bar'],193,8.2,False
+96,Sobornyi,Coast / Коаст,4c505cd13a6f2d7fc2b97177,48.46353817199719,35.074204415470135,Restaurant,"['вул. Січеславська Набережна, 61', 'Дніпро', 'Україна']",['Restaurant'],487,8.5,False
+97,Sobornyi,For Rest,5bd47470e97dfb002c6fa5e7,48.458896,35.049081,Vegetarian / Vegan Restaurant,"['Южная 8г', 'Дніпро, 49000', 'Україна']","['Vegetarian / Vegan Restaurant', 'Café']",17,7.8,False
+98,Sobornyi,Папа Карла,504db8d5e4b0c4f4a4c61be3,48.456865995949435,35.059646223632846,Café,"['просп. Дмитра Яворницького, 27-А (вул. Василя Жуковського)', 'Дніпро, 49000', 'Україна']",['Café'],456,7.7,False
+99,Sobornyi,One Dollar Bar,579de888498e7d4972ca689a,48.46017995998657,35.06911189569206,Café,"['вул. Яворницького, 6', 'Дніпро', 'Україна']","['Café', 'Breakfast Spot', 'Bar']",338,7.7,
+100,Industrialnyi,Edburg / Эдбург,4f081868e4b0c3ff839018e2,48.52002540377661,35.07534726467519,Eastern European Restaurant,"['вул. Байкальська, 22', 'Дніпро', 'Україна']","['Eastern European Restaurant', 'Hotel']",77,8.1,
+101,Industrialnyi,Булочка З Провулочка,5791f3fd498ef0947797c359,48.510238,35.082704,Bakery,"['Калиновая, 8', 'Dniepropetrowsk', 'Україна']",['Bakery'],11,8.7,
+102,Industrialnyi,Плов Хочу!,5c1fa629c0cacb002cb1ee9e,48.533268,35.08704,Restaurant,"['просп. Слобожанський, 128а', 'Дніпро', 'Україна']",['Restaurant'],29,8.0,False
+103,Industrialnyi,Корона / Korona,529f3b3811d2b7c8717ba576,48.519264432384965,35.078361717295806,Gastropub,"['Радищева,34', 'Україна']","['Gastropub', 'Cocktail Bar']",36,6.9,True
+104,Industrialnyi,Корона Холл,53aea135498e55bfbfd2c5f2,48.519259411477194,35.07836573850924,Restaurant,['Україна'],['Restaurant'],20,6.7,
+105,Industrialnyi,Фаэтон,5475eb30498eb17c04bd7349,48.51619452917428,35.07947797618338,BBQ Joint,"['просп. Слобожанський, 74-А (вул. Батумська)', 'Дніпро', 'Україна']",['BBQ Joint'],109,6.7,False
+106,Industrialnyi,Булочник,55f5631d498ef09596d7a9c3,48.51056641940773,35.08078733080018,Bakery,"['вул. Калинова, 3', 'Дніпро', 'Україна']",['Bakery'],6,6.7,
+107,Industrialnyi,Varus,534837ae498ec3fe40c7b8f9,48.51025506160007,35.08004412069673,Grocery Store,"['ул. Калиновая, 9-А', 'Дніпро', 'Україна']",['Grocery Store'],8,6.5,
+108,Industrialnyi,Франс.уа,5336f244498e2e6499b8f197,48.511509402992786,35.07776222808472,Bakery,"['вул. Калинова, 14-Г', 'Дніпро', 'Україна']",['Bakery'],21,6.3,
+109,Industrialnyi,Сільпо / Silpo,4fd25017e4b0362dd3da2201,48.51689445055483,35.079727504817896,Grocery Store,"['просп. Слобожанський, 76-78', 'Дніпро', 'Україна']",['Grocery Store'],35,6.1,False
+110,Industrialnyi,АТБ,4e6cf0b045dd435bc1411936,48.52620846952583,35.04610671375783,Supermarket,"['вул. Янтарна, 75м', 'Дніпро', 'Україна']","['Supermarket', 'Grocery Store']",17,6.4,
+111,Industrialnyi,Восточный Дворик,500999c5e4b098bae22b5c49,48.509182572008434,35.08065357239567,Food Court,['Україна'],['Food Court'],9,6.1,
+112,Industrialnyi,Карпаты,4dfb855581dce49306248b1c,48.5306898156303,35.08526281748182,Eastern European Restaurant,"['пр. имени газеты Правда, 118', 'Дніпро', 'Україна']",['Eastern European Restaurant'],7,5.9,
+113,Industrialnyi,Бакинский Дворик,4fc61302e4b09c44d20ce405,48.50383266889788,35.08358052901212,Middle Eastern Restaurant,"['вул. Богдана Хмельницького, 18', 'Дніпро', 'Україна']","['Middle Eastern Restaurant', 'Food Court']",47,5.9,
+114,Industrialnyi,Coffee Life,4c947401f244b1f7fe62221d,48.51021268195578,35.07998961853908,Coffee Shop,"['вул. Калинова, 9 (ТЦ «Міріада»)', 'Дніпро', 'Україна']",['Coffee Shop'],52,5.6,False
+115,Industrialnyi,Шоколад,4ef8a83a9adf7bbf899c9a46,48.50929132411173,35.084578416678156,Café,"['вул. Гулі Корольової, 2', 'Дніпро', 'Україна']","['Café', 'Tea Room']",9,5.5,
+116,Industrialnyi,Macdonald's,551fd19d498ed5c1ea143083,48.52720526451749,35.047629799961896,Fast Food Restaurant,['Україна'],['Fast Food Restaurant'],4,0.0,
+117,Tsentralnyi,Викинг,4da997a94df01c19b1742d64,48.453734600864586,35.02848249712129,Restaurant,"['вул. Димитрова, 44', 'Дніпро', 'Україна']",['Restaurant'],67,7.8,False
+118,Tsentralnyi,Pushkin Coffee & Beer,53c527cd498e3bc74d4eb836,48.46550556393916,35.02708722150323,Café,"['просп. Пушкіна, 29/31', 'Дніпро', 'Україна']","['Café', 'Coffee Shop']",80,7.6,
+119,Tsentralnyi,Nagori relax&hall,575d52fd498e0ed92be4f018,48.449642,35.024365,Restaurant,"['проспект Пилипа Орлика, 20', 'Дніпро, 49000', 'Україна']",['Restaurant'],16,7.7,
+120,Tsentralnyi,Говинда / Govinda,4ddfa0a818388714bb6c3321,48.470915071398395,35.010121797995744,Vegetarian / Vegan Restaurant,"['узвіз Ярмарковий, 39 (просп. Пушкіна)', 'Дніпро, 49000', 'Україна']",['Vegetarian / Vegan Restaurant'],119,8.1,False
+121,Tsentralnyi,TeaHouse,4fc64774e4b05ab8c3eb3eb9,48.46628972734834,35.044211873303766,Tea Room,"['просп. Дмитра Яворницького, 54', 'Дніпро', 'Україна']","['Tea Room', 'Coffee Shop']",21,8.1,
+122,Tsentralnyi,Take coffee to go,56ae403e498ee2682ad6f7df,48.462506314755686,35.052009310199836,Coffee Shop,"['вул. Барикадна, 5/7 (просп. Дмитра Яворницького)', 'Дніпро, 49000', 'Україна']",['Coffee Shop'],84,8.4,
+123,Tsentralnyi,Оджах,501a6986e4b02d5a4b200fa0,48.47122761024276,35.006759171952496,Middle Eastern Restaurant,"['вул. Леваневського, 15-А', 'Дніпро', 'Україна']","['Middle Eastern Restaurant', 'BBQ Joint']",8,8.0,False
+124,Tsentralnyi,Визит Lunch,538d95dc498e73f38cc9156a,48.45469047865961,35.02340642701906,Café,"['пр.Кирова 46', 'Дніпро', 'Україна']",['Café'],6,7.2,False
+125,Tsentralnyi,Coffee Nostra,522c6a9111d2a641399243f6,48.46557253884772,35.04696370167667,Coffee Shop,"['Європейський бул., 1д', 'Дніпро, 49000', 'Україна']","['Coffee Shop', 'Tea Room']",36,8.0,False
+126,Chechelivskyi,Confetti / Конфетти,52eb880211d278cf2ee7b5c3,48.43329853285769,35.01137477879207,Café,"['ТЦ «Славутич» (просп. Кірова, 104а)', 'Дніпро', 'Україна']",['Café'],269,7.6,False
+127,Chechelivskyi,Вiдень,4f6f5153e4b086107852d6a1,48.431636569193294,35.010927991217464,Eastern European Restaurant,"['просп. Олександра Поля, 108', 'Дніпро, 49000', 'Україна']","['Eastern European Restaurant', 'Café']",64,7.3,
+128,Chechelivskyi,Guria,570530f0498ecdcc198a0c61,48.445587,35.004414,Theme Restaurant,"['вул. Надії Алексеєнко, 112', 'Днепр', 'Україна']","['Theme Restaurant', 'Caucasian Restaurant']",10,7.1,
+129,Chechelivskyi,Старый замок,4fac00f7e4b003f55670889e,48.439907867274286,34.9741806741774,Café,"['вул. Криворізька, 60', 'Дніпро', 'Україна']",['Café'],7,6.5,
+130,Chechelivskyi,Кувшин,56b4fae8498ecb17d168f337,48.440679,35.015664,Café,"['Проспект Кирова,84', 'Дніпро', 'Україна']",['Café'],6,7.0,
+131,Chechelivskyi,Каляки-Маляки,51f14ae3498e0958d9502e7e,48.446955526104,35.000451679765746,Café,"['улица Рабочая 81', 'Дніпро', 'Україна']",['Café'],6,6.5,
+132,Chechelivskyi,Гурия,56e43b07498eb5ca5cb362bc,48.445505055416966,35.004394552852546,Restaurant,['Україна'],['Restaurant'],15,6.4,
+133,Chechelivskyi,Patricia coffee,5311dd1e498ec58e1a37ec18,48.4332545616993,35.01149089843426,Coffee Shop,"['ТЦ «Славутич» (просп. Кірова)', 'Дніпро', 'Україна']",['Coffee Shop'],5,6.5,
+134,Chechelivskyi,АТБ,56ebe301498e3aa681c35bd7,48.44809042744213,34.99949272127849,Supermarket,"['Ул. Рабочая, 158', 'Дніпро', 'Україна']",['Supermarket'],5,6.2,
+135,Chechelivskyi,Сiльпо / Silpo,4dbae43093a08f9274962582,48.42812912488939,35.00998914241791,Supermarket,"['вул. Новокримська, 4', 'Дніпро', 'Україна']","['Supermarket', 'Grocery Store', 'Miscellaneous Shop']",75,6.4,
+136,Chechelivskyi,Ранчо / Ranch,4d3abddfcc48224b6110404f,48.44199293813069,35.017576397966984,Pub,"['вул. Кірова, 117 (вул. Вакуленчука)', 'Дніпро, 49000', 'Україна']",['Pub'],12,6.4,
+137,Chechelivskyi,Coffee Life,4d75f244d94ea35dc30daeaf,48.432735852463416,35.00133757774209,Coffee Shop,"['ТРК «Appolo» (вул. Тітова, 36)', 'Дніпро', 'Україна']",['Coffee Shop'],89,6.0,False
+138,Chechelivskyi,Кутёжъ,4f473c7ce4b0d125f4d1af62,48.43950831801609,34.99657118840307,Café,"['вул. Робоча, 97', 'Дніпро', 'Україна']",['Café'],4,5.7,False
+139,Chechelivskyi,Театральное,51cac82a498eb0c3236eb48a,48.44365295672008,35.00001440800861,Restaurant,"['5, Театральная', 'Дніпро', 'Україна']",['Restaurant'],4,5.8,
+140,Chechelivskyi,Фреш-бар,4f4fbd12e4b08cc4b7b569d5,48.436688071753444,35.003368777272414,Juice Bar,"['СК ""Метеор"" (вул. Макарова, 27а)', 'Дніпро', 'Україна']",['Juice Bar'],9,5.8,
+141,Chechelivskyi,АТБ Маркет,58d76bc50acb6a6910db20bf,48.44806,34.967606,Supermarket,"['просп. Металургів, 52', 'Дніпро', 'Україна']",['Supermarket'],4,5.7,True
+142,Chechelivskyi,Бухта Викингов,51321bc1e4b06aa0a17c03d1,48.44956509925015,34.978740249947634,Café,"['Ул. Докучаева д.33', 'Дніпро', 'Україна']",['Café'],2,0.0,
+143,Chechelivskyi,Belle Cafe,527d0055498e63a491f5aeb9,48.432715924151054,35.001395784391,Coffee Shop,"['ТРЦ «Appolo» (вул. Титова, 36)', 'Дніпро', 'Україна']",['Coffee Shop'],14,5.6,
+144,Chechelivskyi,Varus / Варус,534a90a2498ec23f06c71e14,48.451069784118644,35.00273350844424,Grocery Store,"['вул. Робоча, 67', 'Дніпро', 'Україна']","['Grocery Store', 'Shopping Mall']",41,5.7,
+145,Chechelivskyi,Апшерон / Apsheron,4f71d7eee4b0e30fde3cb906,48.42451034624515,34.99447581151236,Asian Restaurant,"['ул. Макарова, 39', 'Дніпро', 'Україна']",['Asian Restaurant'],8,5.6,
+146,Chechelivskyi,Днепропетровский хлебзавод №9,4ff46d46e4b0f331618b78b0,48.45408271476541,34.95549201965332,Bakery,"['ул. Чеботарева, 28', 'Дніпро, 49035', 'Україна']",['Bakery'],4,5.6,
+147,Chechelivskyi,Spar,4ee33dc19a52c1dad9146ef2,48.46292394025853,34.97212347340883,Grocery Store,"['Дніпро', 'Україна']",['Grocery Store'],4,5.6,
+148,Chechelivskyi,Бакинский Дворик,4fa2ad2de4b07d3f48d54a8a,48.46515366508121,34.987531179922144,Middle Eastern Restaurant,"['Новоорловская', 'Дніпро', 'Україна']","['Middle Eastern Restaurant', 'BBQ Joint']",21,5.6,
+149,Chechelivskyi,Кафе Смак,56c4c648cd104c234de6efeb,48.418727,35.00677,Ukrainian Restaurant,"['Пр Богдана Хмельницкого д 48', 'Дніпро', 'Україна']","['Ukrainian Restaurant', 'Modern European Restaurant']",4,0.0,False
+150,Novokodatskyi,Сільпо / Silpo,4df088d67d8ba370a00f8771,48.4846517597973,34.92152770572408,Grocery Store,"['вул. Юрія Кондратюка, 4 (вул. Набережна Заводська)', 'Дніпро', 'Україна']",['Grocery Store'],113,7.9,True
+151,Novokodatskyi,McDonald's,4daae70ef7b145b3701a08df,48.485308027138394,34.92254007254365,Fast Food Restaurant,"['вул. Юрія Кондратюка, 2 (вул. Набережна Заводська)', 'Дніпро, 49128', 'Україна']",['Fast Food Restaurant'],181,7.3,False
+152,Novokodatskyi,АТБ,52f60bbe498e790b39bddcc6,48.48055726251609,34.94305150665719,Food & Drink Shop,"['пл. Дзержинского, 1', 'Дніпро', 'Україна']",['Food & Drink Shop'],8,6.6,
+153,Novokodatskyi,Сiльпо / Silpo,4fe8965de4b0d55e0004461b,48.47725214995308,34.91409653264047,Supermarket,"['вул. Метробудівська, 19 (вул. Велика Діївська)', 'Дніпро', 'Україна']",['Supermarket'],14,7.4,False
+154,Novokodatskyi,Учан Су,53da9fdb498e9839fb47a57d,48.48532218196936,34.941017695206526,BBQ Joint,"['Строевая 8', 'Дніпро', 'Україна']",['BBQ Joint'],12,6.4,
+155,Novokodatskyi,Мечта,51869dc4498e26797a1756cd,48.489802632019995,34.93837503064768,Café,"['вул. Набережна Заводська, 78', 'Україна']",['Café'],12,6.3,
+156,Novokodatskyi,тайный ресторанчик,571cc392498e8c93932a1fb2,48.49519948940901,34.93022657683202,Restaurant,['Україна'],['Restaurant'],15,6.4,
+157,Novokodatskyi,Арзу,50536bace4b0f81fa00cd7e9,48.48574959927923,34.924215431316526,Café,['Україна'],['Café'],14,6.4,
+158,Novokodatskyi,Смак,52e54cff11d2fa55b7344966,48.488317197266284,34.934555493416276,Eastern European Restaurant,"['Набережная Заводская', 'Дніпро', 'Україна']",['Eastern European Restaurant'],6,6.1,True
+159,Novokodatskyi,АТБ,4fb7b7e0e4b02db307b096e5,48.47875550577176,34.91256032234906,Supermarket,"['вул. Метробудівська, 12 (вул. Моніторна)', 'Дніпро, 49018', 'Україна']",['Supermarket'],24,6.5,
+160,Novokodatskyi,Франс.уа,5721d5e5498eefea561178a6,48.484957673312906,34.92270516606991,Bakery,"['вул. Юрія Кондратюка, 2', 'Дніпро', 'Україна']",['Bakery'],12,5.9,False
+161,Novokodatskyi,Брусница,508aaa42e4b0988210f97a20,48.486285483636365,34.92923978154717,Grocery Store,['Україна'],"['Grocery Store', 'Convenience Store']",7,5.7,
+162,Novokodatskyi,АТБ,4fb27d6ce4b04fafbca214bc,48.48261011982204,34.92451676539271,Supermarket,"['вул. Юрія Кондратюка', 'Дніпро', 'Україна']",['Supermarket'],15,5.6,
+163,Novokodatskyi,Varus / Варус,4fa66643e4b00f7195d41ecc,48.48042819345855,34.90628837817606,Grocery Store,"['пров. Парусний, 10Д', 'Дніпро', 'Україна']",['Grocery Store'],14,5.9,True
+164,Novokodatskyi,Varus,5710ff8a498e9471819bbd46,48.478904954919024,34.921913375848085,Supermarket,['Україна'],['Supermarket'],7,5.5,

@@ -9,3 +9,7 @@ Example of code and models built for Medium articles
 2. <b>Quick intro to geolocations and geocodes in Python</b>
 * [Link to the notebook](geocode_and_distance/geocode-and-distance.ipynb)
 * [Article on the Medium]()
+
+3. <b>Geolocations and geocodes instrument set for data analysis</b>
+* [Link to the notebook](geolocation_for_analysis/geolocations-for-analysis.ipynb)
+* [Article on the Medium]()
