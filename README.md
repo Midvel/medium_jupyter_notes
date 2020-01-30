@@ -13,3 +13,8 @@ Example of code and models built for Medium articles
 3. <b>Geolocations and geocodes instrument set for data analysis</b>
 * [Link to the notebook](geolocation_for_analysis/geolocations-for-analysis.ipynb)
 * [Article on the Medium](https://towardsdatascience.com/geolocations-and-geocodes-instrument-set-for-data-analysis-5eb4e33a1677?source=friends_link&sk=e2adfaf06bcef6e207088848d16cb3db)
+
+4. <b>How to build and apply Naive Bayes classificator for spam filtering</b>
+* [Link to the notebook](naive_bayes_filter/bayes-classificator.ipynb)
+* [Article on the Medium]()
+* [Messages dataset](https://archive.ics.uci.edu/ml/datasets/sms+spam+collection)
