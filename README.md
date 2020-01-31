@@ -16,5 +16,5 @@ Example of code and models built for Medium articles
 
 4. <b>How to build and apply Naive Bayes classificator for spam filtering</b>
 * [Link to the notebook](naive_bayes_filter/bayes-classificator.ipynb)
-* [Article on the Medium]()
+* [Article on the Medium](https://towardsdatascience.com/how-to-build-and-apply-naive-bayes-classification-for-spam-filtering-2b8d3308501?source=friends_link&sk=b49e979c2457cc493614e50377b83d88)
 * [Messages dataset](https://archive.ics.uci.edu/ml/datasets/sms+spam+collection)
