@@ -18,3 +18,9 @@ Example of code and models built for Medium articles
 * [Link to the notebook](naive_bayes_filter/bayes-classificator.ipynb)
 * [Article on the Medium](https://towardsdatascience.com/how-to-build-and-apply-naive-bayes-classification-for-spam-filtering-2b8d3308501?source=friends_link&sk=b49e979c2457cc493614e50377b83d88)
 * [Messages dataset](https://archive.ics.uci.edu/ml/datasets/sms+spam+collection)
+
+4. <b>Dive into Foursquare API in the search of geodata</b>
+* [Link to the notebook](dive_into_foursquare/foursquare_api_dataset.ipynb)
+* [Article on the Medium]()
+
+
