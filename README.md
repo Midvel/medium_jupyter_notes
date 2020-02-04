@@ -19,8 +19,10 @@ Example of code and models built for Medium articles
 * [Article on the Medium](https://towardsdatascience.com/how-to-build-and-apply-naive-bayes-classification-for-spam-filtering-2b8d3308501?source=friends_link&sk=b49e979c2457cc493614e50377b83d88)
 * [Messages dataset](https://archive.ics.uci.edu/ml/datasets/sms+spam+collection)
 
-4. <b>Dive into Foursquare API in the search of geodata</b>
+5. <b>Dive into Foursquare API in the search of geodata</b>
 * [Link to the notebook](dive_into_foursquare/foursquare_api_dataset.ipynb)
+* [Article on the Medium](https://medium.com/analytics-vidhya/dive-into-foursquareapi-in-the-search-of-geodata-c9e11661b194?source=friends_link&sk=8eb7a2ca59a99ad85b3b76a3b4c26bc4)
+
+6. <b>10 tiny idioms for Python collections and data structures</b>
+* [Link to the notebook](python_tiny_tips/containers-tips.ipynb)
 * [Article on the Medium]()
-
-
