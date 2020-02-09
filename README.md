@@ -26,3 +26,7 @@ Example of code and models built for Medium articles
 6. <b>10 tiny idioms for Python collections and data structures</b>
 * [Link to the notebook](python_tiny_tips/containers-tips.ipynb)
 * [Article on the Medium](https://medium.com/better-programming/10-tiny-python-idioms-for-collections-and-data-structures-2f0d2923832?source=friends_link&sk=9529b4e8f3ed105973f33722414325e6)
+
+7. <b>Not for the data science only: Generate matrices together with NumPy</b>
+* [Link to the notebook](matrices_generation/generate-matrices.ipynb)
+* [Article on the Medium]()
