@@ -29,4 +29,4 @@ Example of code and models built for Medium articles
 
 7. <b>Not for the data science only: Generate matrices together with NumPy</b>
 * [Link to the notebook](matrices_generation/generate-matrices.ipynb)
-* [Article on the Medium]()
+* [Article on the Medium](https://towardsdatascience.com/not-for-the-data-science-only-generate-matrices-together-with-numpy-d33f03d8875f?source=friends_link&sk=3c86f684dd75b74aee10f7dcd2f5be1f)
