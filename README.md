@@ -31,8 +31,8 @@ Example of code and models built for Medium articles
 * [Link to the notebook](matrices_generation/generate-matrices.ipynb)
 * [Article on the Medium](https://towardsdatascience.com/not-for-the-data-science-only-generate-matrices-together-with-numpy-d33f03d8875f?source=friends_link&sk=3c86f684dd75b74aee10f7dcd2f5be1f)
 
-8. <b>Variety of Naive Bayes algorithms and their application</b>
+8. <b>Comparing a variety of Naive Bayes algorithms</b>
 * [Link to the notebook](scikit_bayes/scikit-bayes.ipynb)
-* [Article on the Medium]()
+* [Article on the Medium](https://towardsdatascience.com/comparing-a-variety-of-naive-bayes-classification-algorithms-fc5fa298379e?source=friends_link&sk=ab4fe9d0517734b429070b1b5f9b17cc)
 * [Messages dataset](https://archive.ics.uci.edu/ml/datasets/sms+spam+collection)
 
