@@ -36,3 +36,8 @@ Example of code and models built for Medium articles
 * [Article on the Medium](https://towardsdatascience.com/comparing-a-variety-of-naive-bayes-classification-algorithms-fc5fa298379e?source=friends_link&sk=ab4fe9d0517734b429070b1b5f9b17cc)
 * [Messages dataset](https://archive.ics.uci.edu/ml/datasets/sms+spam+collection)
 
+9. <b>Can Python dataviz libraries repeat the Tableau worksheet?</b>
+* [Link to the notebook]()
+* [Tableau worksheets]()
+* [Article on the Medium]()
+* [Kickstarter projects dataset on Kaggle](https://www.kaggle.com/kemical/kickstarter-projects)
