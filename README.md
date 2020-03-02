@@ -41,3 +41,7 @@ Example of code and models built for Medium articles
 * [Tableau worksheets]()
 * [Article on the Medium]()
 * [Kickstarter projects dataset on Kaggle](https://www.kaggle.com/kemical/kickstarter-projects)
+
+10. <b>10 Python tricks and scripts for strings transformation and decomposing</b>
+* [Link to the notebook](string_manip/string-tokenization-parsing.ipynb)
+* [Article on the Medium]()
