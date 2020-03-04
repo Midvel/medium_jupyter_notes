@@ -36,12 +36,12 @@ Example of code and models built for Medium articles
 * [Article on the Medium](https://towardsdatascience.com/comparing-a-variety-of-naive-bayes-classification-algorithms-fc5fa298379e?source=friends_link&sk=ab4fe9d0517734b429070b1b5f9b17cc)
 * [Messages dataset](https://archive.ics.uci.edu/ml/datasets/sms+spam+collection)
 
-9. <b>Can Python dataviz libraries repeat the Tableau worksheet?</b>
+9. <b>10 Python tricks and scripts for strings transformation and decomposing</b>
+* [Link to the notebook](string_manip/string-tokenization-parsing.ipynb)
+* [Article on the Medium](https://medium.com/better-programming/10-python-tricks-and-scripts-for-strings-transformation-and-decomposing-e82ecac0a4d0?source=friends_link&sk=0277ce4ebee12d4bf13e4fdf39a359c6)
+
+<!-- 9. <b>Can Python dataviz libraries repeat the Tableau worksheet?</b>
 * [Link to the notebook]()
 * [Tableau worksheets]()
 * [Article on the Medium]()
-* [Kickstarter projects dataset on Kaggle](https://www.kaggle.com/kemical/kickstarter-projects)
-
-10. <b>10 Python tricks and scripts for strings transformation and decomposing</b>
-* [Link to the notebook](string_manip/string-tokenization-parsing.ipynb)
-* [Article on the Medium](https://medium.com/better-programming/10-python-tricks-and-scripts-for-strings-transformation-and-decomposing-e82ecac0a4d0?source=friends_link&sk=0277ce4ebee12d4bf13e4fdf39a359c6)
+* [Kickstarter projects dataset on Kaggle](https://www.kaggle.com/kemical/kickstarter-projects) -->
