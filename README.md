@@ -40,6 +40,11 @@ Example of code and models built for Medium articles
 * [Link to the notebook](string_manip/string-tokenization-parsing.ipynb)
 * [Article on the Medium](https://medium.com/better-programming/10-python-tricks-and-scripts-for-strings-transformation-and-decomposing-e82ecac0a4d0?source=friends_link&sk=0277ce4ebee12d4bf13e4fdf39a359c6)
 
+10. <b>5 Simple Python Ways to Open and Read Your Dataset</b>
+* [Link to the notebook](read_dataset/read-dataset.ipynb)
+* [Article on the Medium]()
+* [Messages dataset](https://archive.ics.uci.edu/ml/datasets/sms+spam+collection)
+
 <!-- 9. <b>Can Python dataviz libraries repeat the Tableau worksheet?</b>
 * [Link to the notebook]()
 * [Tableau worksheets]()
