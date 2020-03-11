@@ -42,7 +42,7 @@ Example of code and models built for Medium articles
 
 10. <b>5 Simple Python Ways to Open and Read Your Dataset</b>
 * [Link to the notebook](read_dataset/read-dataset.ipynb)
-* [Article on the Medium]()
+* [Article on the Medium](https://medium.com/better-programming/5-ways-to-open-and-read-your-dataset-using-python-780770199776?source=friends_link&sk=2dffa9922ea1db6c68485daf7dd40e18)
 * [Messages dataset](https://archive.ics.uci.edu/ml/datasets/sms+spam+collection)
 
 <!-- 9. <b>Can Python dataviz libraries repeat the Tableau worksheet?</b>
