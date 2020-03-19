@@ -45,8 +45,8 @@ Example of code and models built for Medium articles
 * [Article on the Medium](https://medium.com/better-programming/5-ways-to-open-and-read-your-dataset-using-python-780770199776?source=friends_link&sk=2dffa9922ea1db6c68485daf7dd40e18)
 * [Messages dataset](https://archive.ics.uci.edu/ml/datasets/sms+spam+collection)
 
-<!-- 9. <b>Can Python dataviz libraries repeat the Tableau worksheet?</b>
-* [Link to the notebook]()
-* [Tableau worksheets]()
+11. <b>Can Python dataviz libraries reproduce the Tableau worksheet?</b>
+* [Link to the notebook](tableau_vs_python/tableau_vs_python.ipynb)
+* [Tableau worksheets](tableau_vs_python/tableau_workseets)
 * [Article on the Medium]()
-* [Kickstarter projects dataset on Kaggle](https://www.kaggle.com/kemical/kickstarter-projects) -->
+* [Kickstarter projects dataset on Kaggle](https://www.kaggle.com/kemical/kickstarter-projects)
