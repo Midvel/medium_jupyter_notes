@@ -50,3 +50,8 @@ Example of code and models built for Medium articles
 * [Tableau worksheets](tableau_vs_python/tableau_workseets)
 * [Article on the Medium](https://towardsdatascience.com/can-python-dataviz-libraries-repeat-the-tableau-worksheet-e38ef2876f04?source=friends_link&sk=0a05178112137193b53d6e4287755389)
 * [Kickstarter projects dataset on Kaggle](https://www.kaggle.com/kemical/kickstarter-projects)
+
+12. <b>Handle missing data with R: 10 daily used idioms</b>
+* [Link to the code](r_missing_values/missing-values.R)
+* [Article on the Medium]()
+* [Wine review dataset on Kaggle](https://www.kaggle.com/zynicide/wine-reviews)
