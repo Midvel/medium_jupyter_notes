@@ -53,5 +53,5 @@ Example of code and models built for Medium articles
 
 12. <b>Handle missing data with R: 10 daily used idioms</b>
 * [Link to the code](r_missing_values/missing-values.R)
-* [Article on the Medium]()
+* [Article on the Medium](https://towardsdatascience.com/handle-missing-data-with-r-10-daily-used-idioms-13d849d01690?source=friends_link&sk=5be3e225e0925f7da80b35d38d4ff398)
 * [Wine review dataset on Kaggle](https://www.kaggle.com/zynicide/wine-reviews)
