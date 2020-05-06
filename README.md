@@ -55,3 +55,9 @@ Example of code and models built for Medium articles
 * [Link to the code](r_missing_values/missing-values.R)
 * [Article on the Medium](https://towardsdatascience.com/handle-missing-data-with-r-10-daily-used-idioms-13d849d01690?source=friends_link&sk=5be3e225e0925f7da80b35d38d4ff398)
 * [Wine review dataset on Kaggle](https://www.kaggle.com/zynicide/wine-reviews)
+
+13. <b>Power your Windows app with AI: connect C# application with Python model</b>
+* [Link to the code](https://github.com/Midvel/WindowsToPythonAI)
+* [Article on the Medium]()
+* [Loan lending club dataset on Kaggle](https://www.kaggle.com/wendykan/lending-club-loan-data)
+
