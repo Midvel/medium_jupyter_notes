@@ -58,6 +58,6 @@ Example of code and models built for Medium articles
 
 13. <b>Power your Windows app with AI: connect C# application with Python model</b>
 * [Link to the code](https://github.com/Midvel/WindowsToPythonAI)
-* [Article on the Medium]()
+* [Article on the Medium](https://towardsdatascience.com/power-your-windows-app-with-ai-connect-c-application-with-python-model-c5f100ebc1fc?source=friends_link&sk=634e8129cde1817faeedbbe61ed4797c)
 * [Loan lending club dataset on Kaggle](https://www.kaggle.com/wendykan/lending-club-loan-data)
 
