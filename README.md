@@ -61,3 +61,6 @@ Example of code and models built for Medium articles
 * [Article on the Medium](https://towardsdatascience.com/power-your-windows-app-with-ai-connect-c-application-with-python-model-c5f100ebc1fc?source=friends_link&sk=634e8129cde1817faeedbbe61ed4797c)
 * [Loan lending club dataset on Kaggle](https://www.kaggle.com/wendykan/lending-club-loan-data)
 
+14. <b>From the bridge to tasks planning: build Gannt chart in Python, R, and Tableau</b>
+* [Link to the code](epic_gantt_chart)
+* [Article on the Medium]()
