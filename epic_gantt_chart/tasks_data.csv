@@ -1,0 +1,9 @@
+"name","start.date","end.date","is.critical"
+"Initial task","2020-01-01","2020-02-15",FALSE
+"Small task","2020-02-17","2020-02-27",TRUE
+"Another task","2020-03-02","2020-04-20",FALSE
+"Parallel task","2020-03-15","2020-04-20",FALSE
+"Little task","2020-04-20","2020-04-25",TRUE
+"Parallel task","2020-04-25","2020-05-25",FALSE
+"Last task","2020-05-25","2020-05-30",TRUE
+"Finish","2020-05-31","2020-06-06",FALSE
