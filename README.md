@@ -1,5 +1,6 @@
 # medium_jupyter_notes
-Example of code and models built for Medium articles
+Example of code and models built for Medium articles<br>
+See here code and links for [C++ articles](https://github.com/Midvel/medium_code_notes)
 
 1. <b>7 idioms to acquire missing values every data scientist should know.</b>
 * [Link to the notebook](missing_data_idioms/missing-data-tips.ipynb)
@@ -64,3 +65,7 @@ Example of code and models built for Medium articles
 14. <b>From the bridge to tasks planning: build Gannt chart in Python, R, and Tableau</b>
 * [Link to the code](epic_gantt_chart)
 * [Article on the Medium](https://towardsdatascience.com/from-the-bridge-to-tasks-planning-build-gannt-chart-in-python-r-and-tableau-7256fb7615f8?source=friends_link&sk=3c89172b844176ff39c63b005192b37d)
+
+15. <b>Elementary web-scrapping with Python and BeautifulSoup</b>
+* [Link to the code](bs_scrapping/bs-scrapping.ipynb)
+* [Article on the Medium]()
