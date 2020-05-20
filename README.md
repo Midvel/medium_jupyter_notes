@@ -66,6 +66,6 @@ See here code and links for [C++ articles](https://github.com/Midvel/medium_code
 * [Link to the code](epic_gantt_chart)
 * [Article on the Medium](https://towardsdatascience.com/from-the-bridge-to-tasks-planning-build-gannt-chart-in-python-r-and-tableau-7256fb7615f8?source=friends_link&sk=3c89172b844176ff39c63b005192b37d)
 
-15. <b>Elementary web-scrapping with Python and BeautifulSoup</b>
+15. <b>Elementary web-scraping with Python and BeautifulSoup</b>
 * [Link to the code](bs_scrapping/bs-scrapping.ipynb)
 * [Article on the Medium]()
