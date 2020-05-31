@@ -69,3 +69,7 @@ See here code and links for [C++ articles](https://github.com/Midvel/medium_code
 15. <b>Elementary web-scraping with Python and BeautifulSoup</b>
 * [Link to the code](bs_scrapping/bs-scrapping.ipynb)
 * [Article on the Medium](https://towardsdatascience.com/python-and-world-literature-elementary-web-scraping-with-beautifulsoup-a43daaf46ab?source=friends_link&sk=c533572da744733766b7d54fca4a9eb2)
+
+16. <b>A brief guide to data imputation with Python and R</b>
+* [Link to the code](data-imputation)
+* [Article on the Medium]()
