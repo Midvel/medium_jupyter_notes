@@ -72,4 +72,4 @@ See here code and links for [C++ articles](https://github.com/Midvel/medium_code
 
 16. <b>A brief guide to data imputation with Python and R</b>
 * [Link to the code](data-imputation)
-* [Article on the Medium]()
+* [Article on the Medium](https://towardsdatascience.com/a-brief-guide-to-data-imputation-with-python-and-r-5dc551a95027?source=friends_link&sk=97339563c3f2468bfdaf6ddefa714d08)
