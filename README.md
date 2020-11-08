@@ -1,6 +1,7 @@
 # medium_jupyter_notes
 Example of code and models built for Medium articles<br>
-See here code and links for [C++ articles](https://github.com/Midvel/medium_code_notes)
+See here code and links for [C++ articles](https://github.com/Midvel/medium_code_notes)<br>
+See here code and links for [Blockchain articles](https://github.com/Midvel/medium_blockchain_notes)
 
 1. <b>7 idioms to acquire missing values every data scientist should know.</b>
 * [Link to the notebook](missing_data_idioms/missing-data-tips.ipynb)
